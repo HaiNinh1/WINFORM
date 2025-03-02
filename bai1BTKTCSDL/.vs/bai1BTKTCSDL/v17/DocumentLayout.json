@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\haini\\source\\repos\\bai1BTKTCSDL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2058E30D-AB82-4DB2-86FE-5A365264AB9C}|bai1BTKTCSDL\\bai1BTKTCSDL.csproj|c:\\users\\haini\\source\\repos\\bai1btktcsdl\\bai1btktcsdl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2058E30D-AB82-4DB2-86FE-5A365264AB9C}|bai1BTKTCSDL\\bai1BTKTCSDL.csproj|solutionrelative:bai1btktcsdl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2058E30D-AB82-4DB2-86FE-5A365264AB9C}|bai1BTKTCSDL\\bai1BTKTCSDL.csproj|c:\\users\\haini\\source\\repos\\bai1btktcsdl\\bai1btktcsdl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2058E30D-AB82-4DB2-86FE-5A365264AB9C}|bai1BTKTCSDL\\bai1BTKTCSDL.csproj|solutionrelative:bai1btktcsdl\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2058E30D-AB82-4DB2-86FE-5A365264AB9C}|bai1BTKTCSDL\\bai1BTKTCSDL.csproj|c:\\users\\haini\\source\\repos\\bai1btktcsdl\\bai1btktcsdl\\listsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2058E30D-AB82-4DB2-86FE-5A365264AB9C}|bai1BTKTCSDL\\bai1BTKTCSDL.csproj|solutionrelative:bai1btktcsdl\\listsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2058E30D-AB82-4DB2-86FE-5A365264AB9C}|bai1BTKTCSDL\\bai1BTKTCSDL.csproj|c:\\users\\haini\\source\\repos\\bai1btktcsdl\\bai1btktcsdl\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2058E30D-AB82-4DB2-86FE-5A365264AB9C}|bai1BTKTCSDL\\bai1BTKTCSDL.csproj|solutionrelative:bai1btktcsdl\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListSV.cs",
+              "DocumentMoniker": "C:\\Users\\haini\\source\\repos\\bai1BTKTCSDL\\bai1BTKTCSDL\\ListSV.cs",
+              "RelativeDocumentMoniker": "bai1BTKTCSDL\\ListSV.cs",
+              "ToolTip": "C:\\Users\\haini\\source\\repos\\bai1BTKTCSDL\\bai1BTKTCSDL\\ListSV.cs",
+              "RelativeToolTip": "bai1BTKTCSDL\\ListSV.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:25:06.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sinhvien.cs",
+              "DocumentMoniker": "C:\\Users\\haini\\source\\repos\\bai1BTKTCSDL\\bai1BTKTCSDL\\Sinhvien.cs",
+              "RelativeDocumentMoniker": "bai1BTKTCSDL\\Sinhvien.cs",
+              "ToolTip": "C:\\Users\\haini\\source\\repos\\bai1BTKTCSDL\\bai1BTKTCSDL\\Sinhvien.cs",
+              "RelativeToolTip": "bai1BTKTCSDL\\Sinhvien.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T16:20:27.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\haini\\source\\repos\\bai1BTKTCSDL\\bai1BTKTCSDL\\Form1.cs",
+              "RelativeDocumentMoniker": "bai1BTKTCSDL\\Form1.cs",
+              "ToolTip": "C:\\Users\\haini\\source\\repos\\bai1BTKTCSDL\\bai1BTKTCSDL\\Form1.cs",
+              "RelativeToolTip": "bai1BTKTCSDL\\Form1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:38:06.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\haini\\source\\repos\\bai1BTKTCSDL\\bai1BTKTCSDL\\Form1.cs",
+              "RelativeDocumentMoniker": "bai1BTKTCSDL\\Form1.cs",
+              "ToolTip": "C:\\Users\\haini\\source\\repos\\bai1BTKTCSDL\\bai1BTKTCSDL\\Form1.cs [Design]",
+              "RelativeToolTip": "bai1BTKTCSDL\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T15:08:54.32Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

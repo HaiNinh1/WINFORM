@@ -1,0 +1,10 @@
+C:\Users\haini\source\repos\bai1BTKTCSDL\bai1BTKTCSDL\bin\Debug\bai1BTKTCSDL.exe.config
+C:\Users\haini\source\repos\bai1BTKTCSDL\bai1BTKTCSDL\bin\Debug\bai1BTKTCSDL.exe
+C:\Users\haini\source\repos\bai1BTKTCSDL\bai1BTKTCSDL\bin\Debug\bai1BTKTCSDL.pdb
+C:\Users\haini\source\repos\bai1BTKTCSDL\bai1BTKTCSDL\obj\Debug\bai1BTKTCSDL.csproj.AssemblyReference.cache
+C:\Users\haini\source\repos\bai1BTKTCSDL\bai1BTKTCSDL\obj\Debug\bai1BTKTCSDL.Form1.resources
+C:\Users\haini\source\repos\bai1BTKTCSDL\bai1BTKTCSDL\obj\Debug\bai1BTKTCSDL.Properties.Resources.resources
+C:\Users\haini\source\repos\bai1BTKTCSDL\bai1BTKTCSDL\obj\Debug\bai1BTKTCSDL.csproj.GenerateResource.cache
+C:\Users\haini\source\repos\bai1BTKTCSDL\bai1BTKTCSDL\obj\Debug\bai1BTKTCSDL.csproj.CoreCompileInputs.cache
+C:\Users\haini\source\repos\bai1BTKTCSDL\bai1BTKTCSDL\obj\Debug\bai1BTKTCSDL.exe
+C:\Users\haini\source\repos\bai1BTKTCSDL\bai1BTKTCSDL\obj\Debug\bai1BTKTCSDL.pdb
